@@ -14,8 +14,8 @@ Player Info login
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
-- ID: test
-- PW: test
+- ID: test1
+- PW: test1
 
 ## ⑤工夫した点・こだわった点
 
